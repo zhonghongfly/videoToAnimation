@@ -1,0 +1,5 @@
+paddlepaddle==2.5.2
+paddlehub
+moviepy
+opencv-python
+tqdm
